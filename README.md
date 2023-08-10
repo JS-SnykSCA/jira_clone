@@ -16,7 +16,7 @@
 
 I do React consulting and this is a showcase product I've built in my spare time. It's a very good example of modern, real-world React codebase.
 
-There are many showcase/example React projects out there but most of them are way too simple. I like to think that this codebase contains enough complexity to offer valuable insights to React developers of all skill levels while still being _relatively_ easy to understand.
+There are many showcase/example React projects out there but most of them are way too simple. I like to think that this codebase contains enough complexity to offer valuable insights to React developers of all skill levels while still being _relatively_ easy to understand..
 
 ## Features
 
